@@ -79,6 +79,9 @@ hr{
 .center{
     text-align: center;
 }
+.forget{
+    padding:12px 0px;
+}
 .endd{
     padding-top:20px;
     color:#1C1E21;
